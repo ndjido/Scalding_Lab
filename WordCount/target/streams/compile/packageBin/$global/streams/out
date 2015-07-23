@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/wordcount_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	WordCountJob$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	WordCountJob$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	WordCountJob$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	WordCountJob.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob.class[0m
+[0m[[0mdebug[0m] [0m	WordCountJob$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	WordCountJob$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	WordCountJob$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$6.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

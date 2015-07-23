@@ -1,0 +1,152 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$1.class
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$2.class
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$3.class
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$4.class
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$5.class
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$6.class
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob.class
+binary dependencies:
+4 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/.ivy2/cache/com.twitter/scalding-args_2.11/jars/scalding-args_2.11-0.14.0.jar
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/.ivy2/cache/com.twitter/scalding-core_2.11/jars/scalding-core_2.11-0.14.0.jar
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> /Users/ndjidoardo.bar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob$$anonfun$1
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob$$anonfun$2
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob$$anonfun$3
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob$$anonfun$4
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob$$anonfun$5
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob$$anonfun$6
+used names:
+50 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> !=
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> &&
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> ->
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> <init>
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> >
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> Args
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> Array
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> Job
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> Predef
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> String
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> StringGetter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> Symbol
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> TextLine
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> TupleConverter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> TupleGetter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> TupleSetter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> WordCountJob
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> apply
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> args
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> asInstanceOf
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> com
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> filter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> flatMap
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> flowDef
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> groupAll
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> groupBy
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> length
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> line
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> mode
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> pipeToRichPipe
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> productToFields
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> refArrayOps
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> replaceAll
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> reverse
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> scala
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> scalding
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> singleConverter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> singleSetter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> size
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> sortBy
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> sourceToRichPipe
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> split
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> symbolToFields
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> text
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> toLowerCase
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> tokenize
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> tuple2ToFieldsPair
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> twitter
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> word
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> write
+product stamps:
+7 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$1.class -> lastModified(1436030009000)
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$2.class -> lastModified(1436030009000)
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$3.class -> lastModified(1436030009000)
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$4.class -> lastModified(1436030009000)
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$5.class -> lastModified(1436030009000)
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob$$anonfun$6.class -> lastModified(1436030009000)
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/target/scala-2.11/classes/WordCountJob.class -> lastModified(1436030009000)
+source stamps:
+1 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> hash(5371c367f19f5b58481ea7bf4387965df7a5d13f)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/ndjidoardo.bar/.ivy2/cache/com.twitter/scalding-args_2.11/jars/scalding-args_2.11-0.14.0.jar -> lastModified(1431712502000)
+/Users/ndjidoardo.bar/.ivy2/cache/com.twitter/scalding-core_2.11/jars/scalding-core_2.11-0.14.0.jar -> lastModified(1431712621000)
+/Users/ndjidoardo.bar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ndjidoardo.bar/.ivy2/cache/com.twitter/scalding-args_2.11/jars/scalding-args_2.11-0.14.0.jar -> com.twitter.scalding.Args
+/Users/ndjidoardo.bar/.ivy2/cache/com.twitter/scalding-core_2.11/jars/scalding-core_2.11-0.14.0.jar -> com.twitter.scalding.Job
+/Users/ndjidoardo.bar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Tuple2$
+internal apis:
+1 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA9loR1AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzxiIGXQACGZyb21FbnVtc3EAfgALGKznn3QABHJlYWRzcQB+AAuOHgNNdAAJaW50RmllbGRzc3EAfgALP9zxknQABnRvUGlwZXNxAH4AC97dGed0AA9wcm9kdWN0VG9GaWVsZHNzcQB+AAsFvc1idAANZmllbGRUb0ZpZWxkc3NxAH4AC9CmfBx0ABBzb3VyY2VUb1JpY2hQaXBlc3EAfgALMreAQ3QADnNjYWxkaW5nQ29uZmlnc3EAfgAL+WQ19XQADHVuaXRUb0ZpZWxkc3NxAH4AC/QbhuJ0ABJpdGVyYWJsZVRvUmljaFBpcGVzcQB+AAtpRO2ZdAASZmllbGRzVG9SaWNoRmllbGRzc3EAfgALZXZR8HQACmRhdGVQYXJzZXJzcQB+AAtXK3YQdAASdHVwbGUyVG9GaWVsZHNQYWlyc3EAfgALNIhoLHQABmZpZWxkc3NxAH4AC4dNq5Z0AA5zeW1ib2xUb0ZpZWxkc3NxAH4AC+Fgp1V0AARtb2Rlc3EAfgALU2cPdnQACXN0ckZpZWxkc3NxAH4AC5PfkOR0AA5zdHJpbmdUb0ZpZWxkc3NxAH4AC8qPg6t0ABFlbnVtVmFsdWVUb0ZpZWxkc3NxAH4ACy6+N1t0AAtmaWVsZEZpZWxkc3NxAH4AC6FPqZF0AA5waXBlVG9SaWNoUGlwZXNxAH4AC/4tiEV0AAdmbG93RGVmc3EAfgALjdiGH3QAEF9pbXBsaWNpdEpvYkFyZ3NzcQB+AAt22/G4dAALaW50VG9GaWVsZHNzcQB+AAuiuYiFdAAPaW50ZWdlclRvRmllbGRzc3EAfgALVNl8qHQAE3BhcnNlQW55U2VxVG9GaWVsZHN1cQB+AAkAAAA1c3EAfgALvgVy4HQABm5vdGlmeXNxAH4AC5gGfG50AARuYW1lc3EAfgALiyxWnnQABHdhaXRzcQB+AAugyArYdAARZGVmYXVsdENvbXBhcmF0b3JzcQB+AAuM2TcddAANJGFzSW5zdGFuY2VPZnNxAH4AC+xYmWd0AAZhc0xpc3RzcQB+AAu68g95dAAJbGlzdGVuZXJzc3EAfgALNNrLt3QABmVxdWFsc3NxAH4AC6Cn4OB0AAlrZWVwQWxpdmVzcQB+AAv7zyhYdAALaGFuZGxlU3RhdHNzcQB+AAsDM2HFdAAVZGVmYXVsdFNwaWxsVGhyZXNob2xkc3EAfgALLkVWLXQABWNsZWFyc3EAfgALuOvVZnQADGFzSW5zdGFuY2VPZnNxAH4AC4YUW9F0AAh0b2tlbml6ZXNxAH4AC0vKHCd0ABBpb1NlcmlhbGl6YXRpb25zc3EAfgALdVcDF3QAA3J1bnNxAH4ACxw9NlR0AAdoYXNJbnRzc3EAfgALLOJ6u3QACHZhbGlkYXRlc3EAfgALPvCMEXQADHN5bmNocm9uaXplZHNxAH4AC4+X0zR0AAxXb3JkQ291bnRKb2JzcQB+AAuQ1onPdAANJGlzSW5zdGFuY2VPZnNxAH4AC8tDdBl0ABJlbnN1cmVVbmlxdWVGaWVsZHNzcQB+AAshVMxFdAAGY29uZmlnc3EAfgALZt2LsnQADXN0ZXBMaXN0ZW5lcnNzcQB+AAs0Aib7dAAFYXNTZXRzcQB+AAtcXBjFdAATbmV3U3ltYm9sJGRlZmF1bHQkM3NxAH4AC/rVkJF0AAlub3RpZnlBbGxzcQB+AAseLcPKdAAMaXNJbnN0YW5jZU9mc3EAfgALTHGOKnQAFnNjYWxkaW5nQ2FzY2FkaW5nU3RhdHNzcQB+AAtvMbnhdAAIZ2V0RmllbGRzcQB+AAtBNi3LdAAGPGluaXQ+c3EAfgALEyTlcnQAD2NsYXNzSWRlbnRpZmllcnNxAH4AC8JjsQl0AAI9PXNxAH4ACze/Mhh0AAVjbG9uZXNxAH4AC5SCF7B0AAluZXdTeW1ib2xzcQB+AAsJuse8dAALZGVmYXVsdE1vZGVzcQB+AAu14YwYdAAEbmV4dHNxAH4AC/x8DgN0AAh0b1N0cmluZ3NxAH4AC5bV9eJ0AARhcmdzc3EAfgALz0tJfnQAAiE9c3EAfgALRxFh5XQADHN0ZXBTdHJhdGVneXNxAH4AC8EdL9Z0AAhnZXRDbGFzc3NxAH4ACyyg3mh0AAlidWlsZEZsb3dzcQB+AAuo5LfXdAACbmVzcQB+AAvHOVQVdAAMc2tpcFN0cmF0ZWd5c3EAfgALzOC4L3QAB3RpbWVvdXRzcQB+AAvvZHucdAACZXFzcQB+AAv31fLJdAAFd3JpdGVzcQB+AAsZMVihdAANYW55VG9GaWVsZEFyZ3NxAH4AC+9Du8h0AAIjI3NxAH4AC4yWDOx0AAhmaW5hbGl6ZXNxAH4AC8oE5wZ0AAhoYXNoQ29kZXNxAH4AC+Q84dl0AA1jb21wbGV0ZWRGbG93c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AtXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBpdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AM0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ALVMAAlpbmhlcml0ZWRxAH4AtUwAB3BhcmVudHNxAH4AtXhxAH4A1HNxAH4AzQF1cQB+ALAAAAAAcHNxAH4AzQF1cQB+ALAAAAAAcHNxAH4AzQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ANN0AANKb2JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ANNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA2NvbXNxAH4A7HQAB3R3aXR0ZXJzcQB+AOx0AAhzY2FsZGluZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDtc3EAfgDgdAAMU2VyaWFsaXphYmxlc3EAfgDkc3EAfgDndXEAfgDqAAAAA3NxAH4A7HQABGphdmFzcQB+AOx0AAJpb3EAfgD1c3EAfgDgdAAQRmllbGRDb252ZXJzaW9uc3EAfgDmc3EAfgDgdAAbTG93UHJpb3JpdHlGaWVsZENvbnZlcnNpb25zcQB+AOZzcQB+AOB0AAZPYmplY3RzcQB+AORzcQB+AOd1cQB+AOoAAAADc3EAfgDscQB+APxzcQB+AOx0AARsYW5ncQB+APVzcQB+AOB0AANBbnlzcQB+AORzcQB+AOd1cQB+AOoAAAACc3EAfgDsdAAFc2NhbGFxAH4A9XBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU5aDubGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAWi9Vc2Vycy9uZGppZG9hcmRvLmJhci9Eb2N1bWVudHMvR3Vlc3R1TGFiL1NjYWxkaW5nLUxhYi9Xb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFNxw2fxn1tYSB6nv0OHll33pdE/
+external apis:
+0 items
+source infos:
+1 items
+/Users/ndjidoardo.bar/Documents/GuestuLab/Scalding-Lab/WordCount/src/main/scala/WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlmgDkp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWi9Vc2Vycy9uZGppZG9hcmRvLmJhci9Eb2N1bWVudHMvR3Vlc3R1TGFiL1NjYWxkaW5nLUxhYi9Xb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlmtQpt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWi9Vc2Vycy9uZGppZG9hcmRvLmJhci9Eb2N1bWVudHMvR3Vlc3R1TGFiL1NjYWxkaW5nLUxhYi9Xb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTloMsF91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWi9Vc2Vycy9uZGppZG9hcmRvLmJhci9Eb2N1bWVudHMvR3Vlc3R1TGFiL1NjYWxkaW5nLUxhYi9Xb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTloO5sZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWi9Vc2Vycy9uZGppZG9hcmRvLmJhci9Eb2N1bWVudHMvR3Vlc3R1TGFiL1NjYWxkaW5nLUxhYi9Xb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
